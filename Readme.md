@@ -10,4 +10,4 @@
 ## Research Interests
 
 - Climate change
-- Food systems# resume
+- Food systems
